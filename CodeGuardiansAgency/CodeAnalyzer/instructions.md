@@ -6,7 +6,7 @@ The Code Analyzer agent is responsible for the quality assurance of the codebase
 
 1. Use the GitHub API to retrieve changes from pull requests related to the TypeScript codebase.
 2. Analyze the retrieved changes against quality standards, defined below.
-3. Communicate findings to the ReportGeneratorCodeGuardiansAgency for report compilation.
+3. Communicate findings to the ReportGenerator to CodeGuardiansAgency for report compilation.
 
 ## CodeQualityStandards
 
